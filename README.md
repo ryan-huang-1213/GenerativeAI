@@ -11,7 +11,6 @@
 
 ## 使用說明 
  - 為節省時間，建議在 google colab 裡面開啟，以減少架設虛擬系統所需時間
- - 若要在本地進行操作，請先參考 [本地端環境架設](#本地端環境架設)
 
 ## 作業
 
@@ -26,20 +25,3 @@
 
 3. 以下為運行後的截圖
 ![HW01_0218](img/HW01/output_0218.png)
-
-
-## 本地端環境架設
-將專案下載至本地端
-```bash
-# bash
-git clone https://github.com/ryan-huang-1213/GenerativeAI.git
-cd ./GenerativeAI
-```
-建立虛擬環境
-```bash
-# bash 
-python -m venv venv
-.\venv\bin\activate
-pip install -r requirements.txt
-source ./venv/bin/activate
-```
