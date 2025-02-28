@@ -40,9 +40,9 @@
 **3. 重要截圖**
 
 圖片前處理調整比較圖
-![before](img\HW02\before.webp)
+![before](img/HW02/before.webp)
 
-![after](img\HW02\after.webp)
+![after](img/HW02/after.webp)
 
 運行結果
-![result](img\HW02\result.png)
+![result](img/HW02/result.png)
