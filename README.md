@@ -46,3 +46,26 @@
 
 運行結果
 ![result](img/HW02/result.png)
+
+### HW03
+**1. colab 網址 :**
+[NTNU_41147047S_CSIE_黃國展_教甄主考官小天使系統.ipynb](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?usp=sharing)
+
+**2. 主題與額外內容**
+該作業有以下功能
+ - 按下生成甄選題目可以隨機生成一個臺灣國中教師甄選的題目
+ - 可以針對該題目進行回答
+ - 獲取建議按鍵可以讓小天使告訴你可以如何回答問題
+
+**3. 重要截圖**
+
+實際運行截圖
+- 小天使我不會這題版
+![小天使救命](img/HW03/blank.png)
+
+- 小天使幫你給建議版
+![小天使幫我修](img/HW03//angel.png)
+
+以下為該截圖的詳細輸出 ( 該網頁可以透過滾輪來檢視所有文字 )\
+[輸出.md](result/HW03/result.md)
+
