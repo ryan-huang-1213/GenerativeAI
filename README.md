@@ -46,3 +46,9 @@
 
 運行結果
 ![result](img/HW02/result.png)
+
+
+## HW03 
+
+**1. colab 網址 : **
+[連結](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?hl=zh-tw#scrollTo=lZ9E9HZSpfHF)
