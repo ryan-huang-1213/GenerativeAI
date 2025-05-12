@@ -14,7 +14,7 @@
 
 ## 作業
 
-### HW01
+### week1
 **1. colab 網址 :**
 [NTNU_41147047S_CSIE_黃國展_台股每日前十大成交量的擬合曲線.ipynb](https://colab.research.google.com/drive/10wTASH33ZNQgUuLIxnmcH6ymNYb-TrAF?usp=drive_linkLinks)
 
@@ -26,7 +26,7 @@
 **3. 以下為運行後的截圖**
 ![HW01_0218](img/HW01/output_0218.png)
 
-### HW02 
+### week2
 **1. colab 網址 :**
 [NTNU_41147047S_CSIE_黃國展_第一個神經網路.ipynb](https://colab.research.google.com/drive/1BpF-ga4kQRrdqR6OyWO_Aq1ITk7iB7vQ#scrollTo=FWK0fgKgCHa7)
 **2. 主題與額外內容**
@@ -47,7 +47,7 @@
 運行結果
 ![result](img/HW02/result.png)
 
-### HW04
+### week6
 **1. colab 網址 :**
 [NTNU_41147047S_CSIE_黃國展_教甄主考官小天使系統.ipynb](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?usp=sharing)
 
