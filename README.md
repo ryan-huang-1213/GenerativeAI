@@ -47,7 +47,7 @@
 運行結果
 ![result](img/HW02/result.png)
 
-### HW03
+### HW04
 **1. colab 網址 :**
 [NTNU_41147047S_CSIE_黃國展_教甄主考官小天使系統.ipynb](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?usp=sharing)
 
