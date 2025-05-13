@@ -126,7 +126,7 @@ week 7
 
 ### week9 
 **1. colab 網址 :**
-[NTNU_41147047S_CSIE_黃國展_幾何圖形生成器.ipynb](https://colab.research.google.com/drive/1odedxGwwxyGc9la_g1f4X93JZx7W27TW?hl=zh-tw#scrollTo=DuCD_IH2ReL3)
+[NTNU_41147047S_CSIE_黃國展_幾何圖形生成器.ipynb](https://colab.research.google.com/drive/1odedxGwwxyGc9la_g1f4X93JZx7W27TW?hl=zh-tw#scrollTo=DuCD_IH2ReL3)\
 **2. 主題以及額外內容**
 該作業主題為幾何圖形生成
  - 將用戶輸入的題目進行解析，用 JSON 來進行表示並且加上幾何限制
