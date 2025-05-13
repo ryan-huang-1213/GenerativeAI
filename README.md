@@ -109,3 +109,17 @@ week 7
 以下為該截圖的詳細輸出 ( 該網頁可以透過滾輪來檢視所有文字 )\
 [輸出.md](result/HW03/result.md)
 
+### week8 
+**1. colab 網址 :**
+[NTNU_41147047S_CSIE_黃國展_城市導覽.ipynb](https://colab.research.google.com/drive/1YXgrpWl-309hqjuFhQxdTgcUntFr7EmA?hl=zh-tw#scrollTo=iC8ai0QHGeTD)
+**2. 主題與額外內容**
+該作業主題為城市導覽
+ - 目前為小資料版本，僅有台北、京都以及巴黎的部分資料 
+ - 可以下載 .zip 檔案並且進行解壓縮後讀取
+ - 用戶在輸入資訊後，可以得到相關的旅遊建議 
+
+**3. 重要截圖**
+
+運行結果
+![result](./img/Week8/image.png)
+
