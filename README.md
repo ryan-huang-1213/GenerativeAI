@@ -85,18 +85,18 @@ ArtGAN 是一種基於 BigGAN 架構的生成對抗網路，可生成高解析�
 
 ### week4、6、7
 **1. colab 網址 :**
-[NTNU_41147047S_CSIE_黃國展_教甄主考官小天使系統.ipynb](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?usp=sharing)
+[NTNU_41147047S_CSIE_黃國展_教甄主考官小天使系統.ipynb](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?usp=sharing)\
 
 **2. 主題與額外內容**
-該作業有以下功能
+該作業有以下功能\
 week 4 
- - 可以進行問題回答以及對話
-week 6
+ - 可以進行問題回答以及對話 \
+week 6 
  - 按下生成甄選題目可以隨機生成一個臺灣國中教師甄選的題目
  - 可以針對該題目進行回答
- - 獲取建議按鍵可以讓小天使告訴你可以如何回答問題
-week 7
- - 可以繼續順著回答進行提問以及給予全面性的建議
+ - 獲取建議按鍵可以讓小天使告訴你可以如何回答問題 \
+week 7 
+ - 可以繼續順著回答進行提問以及給予全面性的建議 \
 
 **3. 重要截圖**
 
@@ -112,7 +112,7 @@ week 7
 
 ### week8 
 **1. colab 網址 :**
-[NTNU_41147047S_CSIE_黃國展_城市導覽.ipynb](https://colab.research.google.com/drive/1YXgrpWl-309hqjuFhQxdTgcUntFr7EmA?hl=zh-tw#scrollTo=iC8ai0QHGeTD)
+[NTNU_41147047S_CSIE_黃國展_城市導覽.ipynb](https://colab.research.google.com/drive/1YXgrpWl-309hqjuFhQxdTgcUntFr7EmA?hl=zh-tw#scrollTo=iC8ai0QHGeTD)\
 **2. 主題與額外內容**
 該作業主題為城市導覽
  - 目前為小資料版本，僅有台北、京都以及巴黎的部分資料 
@@ -126,7 +126,7 @@ week 7
 
 ### week9 
 **1. colab 網址 :**
-[NTNU_41147047S_CSIE_黃國展_幾何圖形生成器.ipynb](https://colab.research.google.com/drive/1odedxGwwxyGc9la_g1f4X93JZx7W27TW?hl=zh-tw#scrollTo=DuCD_IH2ReL3)
+[NTNU_41147047S_CSIE_黃國展_幾何圖形生成器.ipynb](https://colab.research.google.com/drive/1odedxGwwxyGc9la_g1f4X93JZx7W27TW?hl=zh-tw#scrollTo=DuCD_IH2ReL3)\
 **2. 主題以及額外內容**
 該作業主題為幾何圖形生成
  - 將用戶輸入的題目進行解析，用 JSON 來進行表示並且加上幾何限制
