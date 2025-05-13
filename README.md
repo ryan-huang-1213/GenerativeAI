@@ -123,3 +123,19 @@ week 7
 運行結果
 ![result](./img/Week8/image.png)
 
+### week9 
+**1. colab 網址 :**
+[NTNU_41147047S_CSIE_黃國展_幾何圖形生成器.ipynb](https://colab.research.google.com/drive/1odedxGwwxyGc9la_g1f4X93JZx7W27TW?hl=zh-tw#scrollTo=DuCD_IH2ReL3)
+**2. 主題以及額外內容**
+該作業主題為幾何圖形生成
+ - 將用戶輸入的題目進行解析，用 JSON 來進行表示並且加上幾何限制
+ - 將 JSON 檔案中的各項幾何元素 ( 如頂點 )，加上座標，或是將點跟點的連線進行確認
+ - 將前一步的資訊作為參考，並且生成對應的程式
+ - 閱讀程式後進行反饋
+**3. 重要截圖**
+![運行網頁參考](./img/Week9/image1.png)
+註 : 詳細結果請參照 `./result/Week9/result.md`
+\
+\
+![圖片繪製結果](./img/Week9/image.png)
+註 : 圖中方框產生原因係因繁體中文包未安裝，用戶可以在自己的環境的 plt 加載繁體中文的 .ttf 以解決問題
