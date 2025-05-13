@@ -85,7 +85,7 @@ ArtGAN 是一種基於 BigGAN 架構的生成對抗網路，可生成高解析�
 
 ### week4、6、7
 **1. colab 網址 :**
-[NTNU_41147047S_CSIE_黃國展_教甄主考官小天使系統.ipynb](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?usp=sharing)
+[NTNU_41147047S_CSIE_黃國展_教甄主考官小天使系統.ipynb](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?usp=sharing)\
 
 **2. 主題與額外內容**
 該作業有以下功能
@@ -112,7 +112,7 @@ week 7
 
 ### week8 
 **1. colab 網址 :**
-[NTNU_41147047S_CSIE_黃國展_城市導覽.ipynb](https://colab.research.google.com/drive/1YXgrpWl-309hqjuFhQxdTgcUntFr7EmA?hl=zh-tw#scrollTo=iC8ai0QHGeTD)
+[NTNU_41147047S_CSIE_黃國展_城市導覽.ipynb](https://colab.research.google.com/drive/1YXgrpWl-309hqjuFhQxdTgcUntFr7EmA?hl=zh-tw#scrollTo=iC8ai0QHGeTD)\
 **2. 主題與額外內容**
 該作業主題為城市導覽
  - 目前為小資料版本，僅有台北、京都以及巴黎的部分資料 
