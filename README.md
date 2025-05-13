@@ -47,6 +47,41 @@
 運行結果
 ![result](img/HW02/result.png)
 
+### week3
+**1. 第三周作業，藝術相關影像生成 ( 以 GAN 的方式實現)**\
+**2. ArtGAN playground**
+    - [連結](https://github.com/cs-chan/ArtGAN)\
+    - 模型名稱：ArtGAN（實作版本為 BigGAN）\
+    - 來源：由 nateraw 在 Hugging Face Spaces 上提供互動式操作平台\
+    - 簡介：
+ArtGAN 是一種基於 BigGAN 架構的生成對抗網路，可生成高解析度（512x512）圖片。它採用條件式生成，可以根據你選擇的「類別」來產生相對應的圖片，例如：狗、貓、金魚、城市、手風琴等。\
+**3. 相關輸出紀錄**
+    - 輸入關鍵字順序為 : \
+        (1) 抽象畫
+        (2) 城市風景畫
+        (3) 類型畫
+        (4) 插畫
+        (5) 風景畫
+        (6) 肖像畫
+        (7) 宗教畫
+        (8) 素描與習作
+        (9) 靜物畫。
+
+
+
+    - 圖片輸出如下 : 
+    ![image](./img/Week3/image.png)
+
+**4. 為何現在較少人使用 GAN 進行圖片生成 ?**
+
+- 穩定性差：GAN 在訓練過程中容易出現模式崩潰（mode collapse）或不穩定的訓練現象。
+
+- 品質不如 Diffusion 模型：像是 Stable Diffusion、DALL·E 2、Midjourney 這些 diffusion-based 模型在生成圖片的品質與細節上明顯優於 GAN。
+
+- 可控性較差：GAN 難以精準控制圖片風格或內容，而 diffusion 模型通常支援文字提示（text prompt），更容易做出你要的結果。
+
+- 資源需求高：高品質 GAN（如 StyleGAN3、BigGAN）需要大量 GPU 訓練與生成，而 diffusion 模型經過優化後在低資源裝置也可運行。
+
 ### week4、6、7
 **1. colab 網址 :**
 [NTNU_41147047S_CSIE_黃國展_教甄主考官小天使系統.ipynb](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?usp=sharing)
