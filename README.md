@@ -47,15 +47,20 @@
 運行結果
 ![result](img/HW02/result.png)
 
-### week6
+### week4、6、7
 **1. colab 網址 :**
 [NTNU_41147047S_CSIE_黃國展_教甄主考官小天使系統.ipynb](https://colab.research.google.com/drive/16C-mYX6QEWY4Z9uek8rVzwRYj06-tBVX?usp=sharing)
 
 **2. 主題與額外內容**
 該作業有以下功能
+week 4 
+ - 可以進行問題回答以及對話
+week 6
  - 按下生成甄選題目可以隨機生成一個臺灣國中教師甄選的題目
  - 可以針對該題目進行回答
  - 獲取建議按鍵可以讓小天使告訴你可以如何回答問題
+week 7
+ - 可以繼續順著回答進行提問以及給予全面性的建議
 
 **3. 重要截圖**
 
